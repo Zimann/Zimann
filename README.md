@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Qwik as well as digging deeper into Node.JS & Mongo DB
 - 🚀 I’m looking to collaborate on long-term B2B projects
 - 📫 How to reach me: 
-  -- Linkedin: https://www.linkedin.com/in/nico-ziman/
+  - Linkedin: https://www.linkedin.com/in/nico-ziman/
